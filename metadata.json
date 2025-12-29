@@ -1,0 +1,7 @@
+{
+  "name": "Sustain Stack - Inventory Management SaaS",
+  "description": "A premium, enterprise-grade inventory management system featuring real-time analytics, batch tracking, warehouse management, and an AI-powered inventory assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
